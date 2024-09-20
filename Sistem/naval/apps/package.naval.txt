@@ -1,0 +1,7 @@
+# Usage: pip install -r requirements.txt
+easyocr>=1.7.0
+filterpy==1.4.5
+scikit-image>=0.17.2
+mysql-connector-python>=8.3.0
+# https://learn.microsoft.com/en-us/answers/questions/419525/microsoft-visual-c-14-0-or-greater-is-required
+# lap>=0.4.0s
